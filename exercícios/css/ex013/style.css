@@ -1,0 +1,58 @@
+@charset "UTF-8"
+
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to right, blue, rgb(49, 49, 143));
+}
+
+div {
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px rgba(105, 101, 101, 0.438);
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+}
+
+h1 {
+    color: coral;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgba(105, 101, 101, 0.438);
+}
+
+h2 {
+    color: coral;
+    text-align: left;
+    text-shadow: 1px 1px 2px rgba(105, 101, 101, 0.438);
+}
+
+p {
+    color: black;
+    text-align: justify;
+}
+
+.questionário {
+    color: black;
+    text-align: center;
+}
+
+.texto {
+    text-align: center;
+}
+
+.sobre-você {
+    text-align: center;
+}
+
+.box {
+    width: 90%;
+    height: 150px;
+    margin-left: 27px;
+}
+
+.sobre {
+    height: 300px;
+}
